@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+*.zip
+
+# PyCharm
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
