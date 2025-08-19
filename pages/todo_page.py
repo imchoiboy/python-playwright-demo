@@ -18,7 +18,7 @@ class TodoPage:
 
     def add_todo(self, todo_text: str) -> None:
         self.new_todo_input.fill(todo_text)
-        self.new_todo_input.press("Enter")
+        self.new_todo_input.press("Enters")
 
     def toggle_todo(self, todo_text: str) -> None:
         item = self.page.locator(f"//label[text()='{todo_text}']/preceding-sibling::input[@class='toggle']")
