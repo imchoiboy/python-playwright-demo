@@ -1,0 +1,1 @@
+{"name": "test_delete_todo_item", "status": "passed", "start": 1755570157419, "stop": 1755570160870, "uuid": "e5ebb8d3-0811-49ac-8b82-3946287e0295", "testCaseId": "83813a5bea5c18a3f743003e248dfbb0", "fullName": "tests.test_todos.TestTodos#test_delete_todo_item", "titlePath": ["tests", "test_todos.py", "TestTodos"]}

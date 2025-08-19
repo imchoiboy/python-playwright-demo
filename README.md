@@ -1,4 +1,4 @@
-[![Python Playwright Tests](https://github.com/imchoiboy/python-playwright-demo/actions/workflows/tests.yml/badge.svg)](https://github.com/matthewchoi66/playwrightPythonDemo/actions/workflows/tests.yml)
+[![Python Playwright Tests](https://github.com/imchoiboy/python-playwright-demo/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/matthewchoi66/playwrightPythonDemo/actions/workflows/tests.yml)
 
 # Playwright Python Demo - TodoMVC
 
