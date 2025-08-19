@@ -1,11 +1,11 @@
 import pytest
 from pages.todo_page import TodoPage
 
-# @pytest.fixture
-# def todo_page(page):
-#     todo = TodoPage(page)
-#     todo.go_to()
-#     return todo
+@pytest.fixture
+def todo_page(page):
+    todo = TodoPage(page)
+    todo.go_to()
+    return todo
 #
 # def test_add_todo(todo_page):
 #     todo_page.add_todo("Buy milk")
