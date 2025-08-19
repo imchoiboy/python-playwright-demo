@@ -31,7 +31,7 @@ jobs:
       # 4. Run pytest with HTML report
       - name: Run tests
         run: |
-          pytest --maxfail=1 --disable-warnings -q --html=report.html --self-contained-html
+          pytest --maxfail=1 --disable-warnings -q --html=report.html --self-contained-html -v
 
       # 5. Upload HTML test report
       - name: Upload test report
